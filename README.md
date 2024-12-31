@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, yo soy Uriel Aristides</h1>
 <h3 align="center">También conocido como Uristides</h3>
 
-- 🚀 Actualmente estoy trabajando en un proyecto para [Energia En Evolucion](https://www.instagram.com/energenevolucion/)
 - 🌱 Actualmente estoy aprendiendo **Next y Nest**
 - 👨‍💻 Todos mis proyectos están disponibles en [Mi perfil](https://github.com/Uristides)
 - 📫 Cómo contactarme **Uristides21@gmail.com**
